@@ -21,7 +21,7 @@
 ## 🧬 Who Am I
 
 ```typescript
-const shanmukh: Developer = {
+const satej: Developer = {
   alias       : "Satej-More",
   name        : "Satej More",
   location    : "/root 🌍",
