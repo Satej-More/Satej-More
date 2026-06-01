@@ -9,8 +9,8 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Satej-More&label=Profile+Views&color=7c3aed&style=flat-square)](https://github.com/Satej-More)
-[![Twitter](https://img.shields.io/badge/Twitter-@@SatejMore260450-7c3aed?style=flat-square&logo=x&logoColor=white)](https://x.com/@SatejMore260450)
-[![GitHub](https://img.shields.io/badge/GitHub-Satej-More-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/Satej-More)
+[![Twitter](https://img.shields.io/badge/Twitter-@SatejMore260450-7c3aed?style=flat-square&logo=x&logoColor=white)](https://x.com/@SatejMore260450)
+[![GitHub](https://img.shields.io/badge/GitHub-Satej--More-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/Satej-More)
 
 </div>
 
