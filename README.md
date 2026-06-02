@@ -98,7 +98,7 @@ const satej: Developer = {
 
 <div align="center">
 
-![streak](https://streak-stats.demolab.com?user=Satej-More&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=9ca3af&v=1)
+![streak](https://github-readme-streak-stats.herokuapp.com?user=Satej-More&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=9ca3af&v=2)
 
 </div>
 
