@@ -97,8 +97,9 @@ const satej: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Satej-More&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=9ca3af&sideNums=c084fc&currStreakNum=c084fc" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satej-More&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2d9f3&langs_count=6&cache_seconds=1800" width="40%"/>
+
+![streak](https://github-readme-streak-stats.herokuapp.com?user=Satej-More&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=9ca3af&v=2)
+
 </div>
 
 ---
