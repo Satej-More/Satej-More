@@ -87,7 +87,7 @@ const satej: Developer = {
 | [🏦 ForgePLM](https://github.com/Satej-More/ForgePLM) |A full-stack production-grade industrial parts marketplace built for PLM workflows.| JavaScript | [![Stars](https://img.shields.io/github/stars/Satej-More/ForgePLM?style=flat-square&color=7c3aed)](https://github.com/Satej-More/ForgePLM) |
 | [📊 Sentinel](https://github.com/Satej-More/Sentinel) |Ultra-modern, high-throughput, distributed real-time fraud detection platform designed to protect high-velocity digital payment gateways. | SpringBoot | [![Stars](https://img.shields.io/github/stars/Satej-More/Sentinel?style=flat-square&color=7c3aed)](https://github.com/Satej-More/Sentinel) |
 | [🔐 Anti-Cheat](https://github.com/Satej-More/Anti-Cheat) | An advanced AI-powered exam monitoring system with enhanced object detection capabilities. | Python | [![Stars](https://img.shields.io/github/stars/Satej-More/Anti-Cheat?style=flat-square&color=7c3aed)](https://github.com/Satej-More/Anti-Cheat) |
-| [✨ Minters](https://github.com/Satej-More/morpheus) | Autonomous AI SRE agent that detects, investigates, and resolves production incidents using Dynatrace MCP, Gemini AI, and historical incident intelligence. | [![Stars](https://img.shields.io/github/stars/Satej-More/morphues?style=flat-square&color=7c3aed)](https://github.com/Satej-More/morpheus) |
+| [✨ Morphues](https://github.com/Satej-More/morpheus) | Autonomous AI SRE agent that detects, investigates, and resolves production incidents using Dynatrace MCP, Gemini AI, and historical incident intelligence. | [![Stars](https://img.shields.io/github/stars/Satej-More/morphues?style=flat-square&color=7c3aed)](https://github.com/Satej-More/morpheus) |
 
 
 </div>
